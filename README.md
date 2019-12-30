@@ -2,4 +2,4 @@
 
 To play: 
   Download the repository
-  Execute: python main.py
+  Execute: `python main.py`
