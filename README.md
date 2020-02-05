@@ -1,5 +1,5 @@
 # Rocket-Crash
 
 To play: 
-  Download the repository
+  Download the repository <br/>
   Execute: `python main.py`
